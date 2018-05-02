@@ -1,0 +1,9 @@
+// Bespalov Max
+include "code/ScoreBoard/Model"
+project(":code/ScoreBoard/Model").name = "ScoreBoard-Model"
+// include "code/ScoreBoard/View"
+// project(":code/ScoreBoard/View").name = "ScoreBoard-View"
+// include "code/ScoreBoard/ViewModel"
+// project(":code/ScoreBoard/ViewModel").name = "ScoreBoard-ViewModel"
+// include "code/ScoreBoard/Infrastructure"
+// project(":code/ScoreBoard/Infrastructure").name = "ScoreBoard-Infrastructure"
